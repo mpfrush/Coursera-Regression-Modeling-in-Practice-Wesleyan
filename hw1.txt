@@ -1,0 +1,13 @@
+Assignment 1: HIV prevalence
+
+Sample
+
+The sample is from the GapMinder Data, the largest observational study for understanding of statistics about social, economic, and environmental development at local, national, and global levels. The sample includes annual estimates for prevalence of HIV infection among individual persons 15-49 years old and total estimated numbers of infected, all ages. Data for most countries (n = 161) are estimates obtained from UNAIDS/WHO (1990-2007 years), or for early years 1979 to 1989, extrapolations from UNAIDS/WHO data. Number of participants is considered for 161 countries (with number of inhabitants more than 100,000 per country). 
+
+Data Collection Procedure
+
+Data were collected by data reporting procedure in countries with different income. In high-income countries, national case reporting is combined with variable extent of HIV testing in risk groups. In most medium and low-income countries, HIV prevalence is monitored using antenatal care surveys and demographic health surveys. 
+
+Measures
+
+The measure of HIV prevalence was drawn from country level surveillance data compiled by the UNAIDS organization in their database (http://www.unaids.org/en/dataanalysis), and made available for download through the Gapminder web site (www.gapminder.org). It measures the estimated HIV prevalence in percentage for number of people living with HIV per 100 population of age group 15-49 in each country during 2009. 
